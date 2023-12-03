@@ -1,0 +1,191 @@
+[
+  {
+    "id": "1",
+    "name": "Hair Wash",
+    "preview": "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg",
+    "photos": [
+    ],
+    "description": "Unisex Hair Cut",
+    "size": [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "isAccessory": false,
+    "brand": "LPU.UNI.SALON",
+    "price": 500
+  },
+  {
+    "id": "2",
+    "name": "Hair Cut",
+    "preview": "https://images.pexels.com/photos/3993466/pexels-photo-3993466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "photos": [
+     
+    ],
+    "description": "Black solid sporty jacket, has a mock collar, 3 pockets, zip closure, long sleeves, straight hem, unlined lining",
+    "size": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "isAccessory": false,
+    "brand": "Fair and lovely",
+    "price": 400
+  },
+  {
+    "id": "3",
+    "name": "Hair Color",
+    "preview": "https://images.pexels.com/photos/3993290/pexels-photo-3993290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "photos": [
+      
+    ],
+    "description": "Flaunt an effortless look with this ultimate pair of black coloured formal shoes from the house of Hush Puppies. Let the sun go down for uncomfortable shoes, as you opt for this pair of formal shoes that is crafted using comfortable TPR (thermoplastic rubber) sole. Pair these formal shoes with a shirt and trousers to look absolutely handsome",
+    "size": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "isAccessory": false,
+    "brand": "UNI PRO",
+    "price": 2200
+  },
+  {
+    "id": "4",
+    "name": "Face Clean Up",
+    "preview": "https://images.pexels.com/photos/5069432/pexels-photo-5069432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "photos": [
+     
+    ],
+    "description": "Black solid leather jacket, has a spread collar, 3 pockets, zip closure, long sleeves, straight hem, polyester lining",
+    "size": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "isAccessory": false,
+    "brand": "UNI PRO",
+    "price": 1499
+  },
+  {
+    "id": "5",
+    "name": "Bride Makeup",
+    "preview": "https://images.pexels.com/photos/2058070/pexels-photo-2058070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "photos": [
+      
+    ],
+    "description": "Blue solid woven shirt dress, has a shirt collar, sleeveless, button closure, flared hem",
+    "size": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "isAccessory": false,
+    "brand": "Fair and lovely",
+    "price": 990
+  },
+  {
+    "id": "6",
+    "name": "Makeup",
+    "preview": "https://images.pexels.com/photos/6954014/pexels-photo-6954014.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "photos": [
+      
+    ],
+    "description": "",
+    "size": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "isAccessory": true,
+    "brand": "Lakme Make setup",
+    "price": 999
+  },
+  {
+    "id": "7",
+    "name": "Makeup 2",
+    "preview": "https://images.pexels.com/photos/7290682/pexels-photo-7290682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "photos": [
+    ],
+    "description": "",
+    "size": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "isAccessory": true,
+    "brand": "fairy",
+    "price": 1999
+  },
+  {
+    "id": "8",
+    "name": "Hair Straight",
+    "preview": "https://images.pexels.com/photos/4952625/pexels-photo-4952625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "photos": [
+    
+    ],
+    "description":"",
+    "size": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "isAccessory": true,
+    "brand": "Beardo",
+    "price": 1990
+  },
+  {
+    "id": "9",
+    "name": "Hair Straight 2",
+    "preview": "https://images.pexels.com/photos/4969866/pexels-photo-4969866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "photos": [
+      
+    ],
+    "description": "",
+    "size": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "isAccessory": true,
+    "brand": "Beardo",
+    "price": 1990
+  },
+  {
+    "id": "10",
+    "name": "Beard Setup",
+    "preview": "https://images.pexels.com/photos/3998431/pexels-photo-3998431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "photos": [
+      
+    ],
+    "description": "",
+    "size": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "isAccessory": true,
+    "brand": "Beardo",
+    "price": 1999
+  }
+]
